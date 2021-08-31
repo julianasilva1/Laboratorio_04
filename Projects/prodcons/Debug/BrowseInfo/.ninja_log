@@ -1,0 +1,16 @@
+# ninja log v5
+130	27008	6485217240000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons.xcl	e2980f2e630e57cb
+474	27105	6485217240000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/driverleds.xcl	f19a14dd9c9d321d
+27022	28208	6485217260000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/RTX_Config.xcl	bb5cc3475ae39ba3
+28224	30057	6485217270000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/rtx_lib.xcl	c6c7a7ba896c0a7c
+27119	30840	6485217287092825	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/driverleds.pbi	cf767fb20960558a
+30868	33312	6485217311869643	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	25afc5ed0c04a420
+33494	35315	6485217331913853	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/RTX_Config.pbi	c6feeca587d247cd
+30077	35648	6485217335241222	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/rtx_lib.pbi	953fad3ac9ff5443
+35486	36449	6485217340000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.xcl	c8e812b03a4f567e
+35690	37164	6485217350421643	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons_part1.pbi	2d3e1405e3cb0c47
+37285	37532	6485217354114103	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons_part0.pbi	4b7f22c5f20e6ae1
+36655	39077	6485217369539400	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.pbi	3ca8cddd08756c63
+39118	39534	6485217374142454	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons_part2.pbi	bb8ca64d3a3de892
+39575	41215	6485217390933601	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	503851279df90309
+41224	55419	6485217527440387	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	67b6f47342dc918a

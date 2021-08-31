@@ -1,0 +1,16 @@
+# ninja log v5
+2	1022	6480124620000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/RTX_Config.xcl	4a4e88d71d5450b4
+117	1072	6480124620000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/driverleds.xcl	6f3c6bc343376955
+1032	1419	6480124620000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.xcl	4a8fcc396397b5db
+1082	1442	6480124620000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/rtx_lib.xcl	e980461f823fc71c
+1455	1734	6480124620000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.xcl	50d8320c6745fb05
+1428	1750	6480124629814041	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/RTX_Config.pbi	9ae1664933ce3b65
+1753	2133	6480124633796680	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/driverleds.pbi	50a570949253edb5
+2137	2439	6480124636848716	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.pbi	21520efc811c6395
+1743	2564	6480124638099536	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.pbi	fe129b41fa7679f7
+2450	3548	6480124647946068	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/rtx_lib.pbi	5bf21fa1efae8388
+2592	3654	6480124649026790	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky_part2.pbi	6b7ab0d4bbbfcfd
+3560	3710	6480124649587170	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky_part1.pbi	1d50aac2b8593d6b
+3659	3725	6480124649737272	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky_part0.pbi	f99759a0638e9729
+3739	4546	6480124657942710	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.pbd	cbe67f4d02ea7e32
+4553	12410	6480124734990129	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/blinky/Debug/BrowseInfo/blinky.pbw	9a585e2ee7a3acd3

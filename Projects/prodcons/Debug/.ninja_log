@@ -1,0 +1,9 @@
+# ninja log v5
+1	136	6520627323475202	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Obj/startup_TM4C1294.o	1c1131cda26925de
+142	1348	6520627335052922	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Obj/rtx_lib.o	7876c824037f3ec2
+7	1417	6520627335052922	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Obj/driverleds.o	a7bba96b0e47ebc0
+1385	1601	6520627337804730	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Obj/RTX_Config.o	cf5058b8f9338ecd
+1432	1697	6520627338335097	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Obj/prodcons.o	e02940d449f865c0
+1620	1946	6520627341236994	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Obj/system_TM4C1294_TW.o	28980d184a5a7917
+2006	2853	6520627349982800	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Exe/prodcons.out	2f5e25ed6105d027
+2867	2928	6520627351393763	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/prodcons/ewarm/Exe/prodcons.bin	eac609b57755c7b3

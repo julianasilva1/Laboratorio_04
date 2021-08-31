@@ -1,0 +1,16 @@
+# ninja log v5
+206	10817	6480118160000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/rtx_lib.xcl	36b707efa326b59d
+3	10936	6480118160000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/system_TM4C1294_TW.xcl	f8f4e84def67626a
+10833	11233	6480118170000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/RTX_Config.xcl	e6bab3ae0fdb2058
+10950	11339	6480118170000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.xcl	9fc1a18825e00698
+11387	16874	6480118229749891	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/RTX_Config.pbi	642a90cd27b71a5a
+11246	16885	6480118229799910	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/rtx_lib.pbi	324459ad20d8632f
+16878	17695	6480118237895315	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/system_TM4C1294_TW.pbi	926928a9b695e7dd
+16913	17755	6480118237965343	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbi	6e926495c094bffa
+17794	18134	6480118242378266	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part0.pbi	efd9c9a5c1acd31a
+17699	18306	6480118240000000	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/uartstdio.xcl	e02b8f6935f8a487
+18140	18361	6480118244639767	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part1.pbi	e4e957ea142df325
+18322	18551	6480118246521012	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/uartstdio.pbi	c7a70efba1de61b9
+18555	18718	6480118248222141	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part2.pbi	22e8d14838ec54a4
+18724	18895	6480118249983306	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbd	82d9a016df6f20ac
+18900	29239	6480118352610830	C:/Users/User/Documents/1_Semestre/Sistemas_Embarcados/Laboratorios/Lab4/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbw	e77fba6b33c29f1f
